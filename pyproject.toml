@@ -1,0 +1,10 @@
+[project]
+name = "web-hello-world"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pydantic-extra-types>=2.10.5",
+    "pydantic[email]>=2.11.7",
+]
